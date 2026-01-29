@@ -1,0 +1,15 @@
+C:\Users\viega\OneDrive\Desktop\DesafioTelefone\bin\Debug\net9.0\DesafioTelefone.exe
+C:\Users\viega\OneDrive\Desktop\DesafioTelefone\bin\Debug\net9.0\DesafioTelefone.deps.json
+C:\Users\viega\OneDrive\Desktop\DesafioTelefone\bin\Debug\net9.0\DesafioTelefone.runtimeconfig.json
+C:\Users\viega\OneDrive\Desktop\DesafioTelefone\bin\Debug\net9.0\DesafioTelefone.dll
+C:\Users\viega\OneDrive\Desktop\DesafioTelefone\bin\Debug\net9.0\DesafioTelefone.pdb
+C:\Users\viega\OneDrive\Desktop\DesafioTelefone\obj\Debug\net9.0\DesafioTelefone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viega\OneDrive\Desktop\DesafioTelefone\obj\Debug\net9.0\DesafioTelefone.AssemblyInfoInputs.cache
+C:\Users\viega\OneDrive\Desktop\DesafioTelefone\obj\Debug\net9.0\DesafioTelefone.AssemblyInfo.cs
+C:\Users\viega\OneDrive\Desktop\DesafioTelefone\obj\Debug\net9.0\DesafioTelefone.csproj.CoreCompileInputs.cache
+C:\Users\viega\OneDrive\Desktop\DesafioTelefone\obj\Debug\net9.0\DesafioTelefone.sourcelink.json
+C:\Users\viega\OneDrive\Desktop\DesafioTelefone\obj\Debug\net9.0\DesafioTelefone.dll
+C:\Users\viega\OneDrive\Desktop\DesafioTelefone\obj\Debug\net9.0\refint\DesafioTelefone.dll
+C:\Users\viega\OneDrive\Desktop\DesafioTelefone\obj\Debug\net9.0\DesafioTelefone.pdb
+C:\Users\viega\OneDrive\Desktop\DesafioTelefone\obj\Debug\net9.0\DesafioTelefone.genruntimeconfig.cache
+C:\Users\viega\OneDrive\Desktop\DesafioTelefone\obj\Debug\net9.0\ref\DesafioTelefone.dll
